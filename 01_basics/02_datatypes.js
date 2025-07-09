@@ -20,5 +20,10 @@ let state = null
 // DATA TYPES()
 // object
 
-console.log(typeof "hooria");
+console.log(typeof "hooria"); // output will be 'string'
+console.log(typeof undefined); // output will be 'undefined'
+console.log(typeof null); // output will be 'object'
+
+;
+
 
