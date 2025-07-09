@@ -24,20 +24,25 @@ let ValueInNumber_4 = Number(score_4);
 
 let isLoggedIn = 1;
 let booleanIsLoggedIn = Boolean(isLoggedIn);
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 
 let isLoggedIn_2 = 0;
 let booleanIsLoggedIn_2 = Boolean(isLoggedIn_2);
-console.log(booleanIsLoggedIn_2);
+// console.log(booleanIsLoggedIn_2);
 
 let isLoggedIn_3 = "Hooria";
 let booleanIsLoggedIn_3 = Boolean(isLoggedIn_3);
-console.log(booleanIsLoggedIn_3);
+// console.log(booleanIsLoggedIn_3);
 
 let isLoggedIn_4 = "";
 let booleanIsLoggedIn_4 = Boolean(isLoggedIn_4);
-console.log(booleanIsLoggedIn_4);
+// console.log(booleanIsLoggedIn_4);
+
+// 1 => true; 0 => false
+// "" => false
+// "hooria" => true
+
 
 
 
