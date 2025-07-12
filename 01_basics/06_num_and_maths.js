@@ -30,6 +30,16 @@ console.log(Math.max(4, 9, 3, 7));
 
 
 console.log(Math.random());
+console.log((Math.random() * 10) + 1);
+console.log(Maths.floor(Math.random() * 10) + 1);
+
+// setting a range to random method
+const min = 10
+const max = 20
+
+console.log(Math.floor(Maths.random()*(max - min +1)) + min);
+
+
 
 
 
